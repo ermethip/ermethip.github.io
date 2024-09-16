@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ermethip.github.io/sitemap.html.gz
+Sitemap: https://ermethip.github.io/app/sitemap.html.gz
+Sitemap: https://ermethip.github.io/assets/sitemap.html.gz
+Sitemap: https://ermethip.github.io/css/sitemap.html.gz
+Sitemap: https://ermethip.github.io/includes/sitemap.html.gz
+Sitemap: https://ermethip.github.io/item/sitemap.html.gz
+Sitemap: https://ermethip.github.io/src/sitemap.html.gz
